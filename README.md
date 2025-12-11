@@ -59,7 +59,7 @@ Every day is a chance to create something smarter, faster, or cooler than yester
 **Profile Stats**  
 <p>
   <img src="https://komarev.com/ghpvc/?username=skepta&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <img src="https://streak-stats.demolab.com?user=skepta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=daskeptaxd&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
