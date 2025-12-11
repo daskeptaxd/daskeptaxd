@@ -28,7 +28,6 @@ If you want to learn how I build, create, ship, and scale projects,
 
 <img src="https://emojis.slackmojis.com/emojis/images/1643515022/52099/cat_typing.gif" width="20"/> I have two Dogs  
 <img src="https://emojis.slackmojis.com/emojis/images/1643514462/52034/coding.gif" width="20"/> I Love Redbull
-
 <img src="https://emojis.slackmojis.com/emojis/images/1643515178/52108/bonk-anime.gif" width="20"/> My favorite anime is **Death Note**
 
 ###  Hobbies
