@@ -22,7 +22,7 @@ I build whatever I can imagine — if an idea sparks, I'm already coding it.
 - Vue.js  
 - Nuxt.js  
 
-I love turning concepts into interactive, clean, and fast products — whether it's a script, an app, or a full-stack project.
+I love turning concepts into interactive, clean, and fast products — whether it's a Bot, Website, or an App
 
 If you want to learn how I build, create, ship, and scale projects,  
 👉 https://www.codecademy.com/
@@ -41,7 +41,6 @@ If you want to learn how I build, create, ship, and scale projects,
 - Anime  
 - Surfing  
 
----
 
 ###  Let's Build Something Awesome
 
@@ -57,8 +56,8 @@ Every day is a chance to create something smarter, faster, or cooler than yester
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
