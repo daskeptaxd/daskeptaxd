@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**skepta**](https://skepta.win), a **Cybersecurity student** based in the **United Kingdom**.
+I'm [**skepta**](https://skepta.win), a **Cybersecurity student** based in **Corfu, Greece**.
 
 I build whatever I can imagine — if an idea sparks, I'm already coding it.
 
@@ -8,10 +8,12 @@ I build whatever I can imagine — if an idea sparks, I'm already coding it.
 
 <img src="https://emojis.slackmojis.com/emojis/images/1643514595/52067/laptop_fire.gif" width="20"/> **Languages & Core Skills**
 - C++  
+- C#
 - Python  
 - JavaScript  
 - TypeScript  
 - PHP  
+- Zig
 - Rust  
 - Assembly  
 
